@@ -20,5 +20,5 @@ Imports: jmvcore (>= 0.9.6.4),
          cowplot,
          BMS,
          tseries
-Remotes: jonathon-love/JASPgraphs@071acf1be9ec26ced2b38c4aee0d23fc9a97c6b7,
+Remotes: jonathon-love/JASPgraphs@eed8987a5439fcd21d4550bff48efe53a8c11561,
          cran/conting
